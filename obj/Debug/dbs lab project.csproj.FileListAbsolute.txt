@@ -1,0 +1,19 @@
+C:\Users\manch\source\repos\dbs lab project\bin\Debug\dbs lab project.exe.config
+C:\Users\manch\source\repos\dbs lab project\bin\Debug\dbs lab project.exe
+C:\Users\manch\source\repos\dbs lab project\bin\Debug\dbs lab project.pdb
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs lab project.csproj.AssemblyReference.cache
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs lab project.csproj.SuggestedBindingRedirects.cache
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Form1.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Properties.Resources.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs lab project.csproj.GenerateResource.cache
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs lab project.csproj.CoreCompileInputs.cache
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs lab project.exe
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs lab project.pdb
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Form2.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Form3.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Form4.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.student_vaccination_details.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Teacher_vaccination_details.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Student_Update.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.Teacher_update.resources
+C:\Users\manch\source\repos\dbs lab project\obj\Debug\dbs_lab_project.access.resources
